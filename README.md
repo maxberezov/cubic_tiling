@@ -1,5 +1,6 @@
 # Cubic Tiling Prediction
 
+This projects predicts tile size for cubic tiling optimization.
 
 # Built With:
 python 3.8
