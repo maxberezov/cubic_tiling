@@ -4,6 +4,6 @@
 # Built With:
 python 3.8
 
-# Getting Started
+# Install Requierements
 
 pip install -r requirements.txt
